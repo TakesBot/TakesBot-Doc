@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 const base = "/docs/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base,  
   title: "塔可Bot",
   description: "A Rhythm-Games QQ Bot",
   themeConfig: {
