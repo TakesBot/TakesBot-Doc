@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+const base = "/docs/"; 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "塔可Bot",
