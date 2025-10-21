@@ -20,6 +20,10 @@ export default defineConfig({
           { text: '绑定帮助', link: '/bindhelp' }
         ]
       }
-    ]
+    ],
+    footer: {
+      copyright: 'Copyright © 2025 <a href="https://nekotc.cn/">Tome Chen</a>',
+      message: '<a href="https://beian.miit.gov.cn/">陇ICP备2024006604号-1</a>',
+    }
   }
 })

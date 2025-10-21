@@ -1,4 +1,5 @@
-# /bind
+# 帮助
+## /bind
 
 此命令用于绑定至舞萌DX账号
 
@@ -16,7 +17,7 @@
 
 注：如果你正在群聊中使用这个，请**一定**要撤回你发送的内容
 
-# /bindsy
+## /bindsy
 
 1.通过[链接](https://www.diving-fish.com/maimaidx/prober/)进入水鱼查分器网站
 

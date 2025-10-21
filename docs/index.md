@@ -4,10 +4,14 @@ layout: home
 
 hero:
   name: "塔可Bot"
-  tagline: A Rhythm-Games QQ Bot
+  text: A Rhythm-Games QQ Bot
+  tagline: 一个音游QQ机器人
+  image:
+    src: /logo.jpg
+    alt: 塔可Bot
   actions:
     - theme: brand
-      text: 快速开始 →
+      text: 快速开始 ->
       link: /guide
     - theme: alt
       text: 链接
@@ -21,4 +25,3 @@ features:
   - title: 玩家数据
     details: 获取玩家舞萌账号详细信息
 ---
-
