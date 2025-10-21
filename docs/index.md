@@ -7,7 +7,7 @@ hero:
   text: A Rhythm-Games QQ Bot
   tagline: 一个音游QQ机器人
   image:
-    src: /logo.jpg
+    src: https://cn-sy1.rains3.com/takesbot/2025/10/9bd09c1ffd352445f9f693d925486a20.jpg
     alt: 塔可Bot
   actions:
     - theme: brand
