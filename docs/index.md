@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: 快速开始 ->
       link: /guide
+    - theme: brand
+      text: 功能介绍 ->
+      link: /features
     - theme: alt
       text: 链接
       link: https://qun.qq.com/qunpro/robot/qunshare?robot_appid=102719228&robot_uin=3889625032
