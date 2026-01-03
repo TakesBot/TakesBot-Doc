@@ -29,8 +29,6 @@
 
 ## /bindlx
 
-1.前往[落雪查分器](https://maimai.lxns.net/user/profile)
+ 1.直接使用命令：`/bindlx`
 
-2.复制此处的好友码![image-20251021014248876](https://cn-sy1.rains3.com/takesbot/2025/10/f8beda8330500a3f4d720b7b4254c208.png)
-
-3.使用命令 `/bindlx 好友码` ![image-20251021014340500](https://cn-sy1.rains3.com/takesbot/2025/10/4c3ee2413be8bf7b95dedb6f4558aef2.png)
+ 2.登录账号进行授权

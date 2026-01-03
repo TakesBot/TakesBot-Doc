@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 链接
       link: https://qun.qq.com/qunpro/robot/qunshare?robot_appid=102719228&robot_uin=3889625032
+    - theme: alt
+      text: 爱发电
+      link: https://afdian.com/a/nekotc
 
 features:
   - title: 底力分析
